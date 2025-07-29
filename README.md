@@ -4,7 +4,6 @@
 
 **Kubernetes** (also known as **K8s**) is an open-source platform designed to **automate the deployment, scaling, and operation** of application containers.
 
----
 
 ## In Simple Terms
 
@@ -15,7 +14,6 @@ Kubernetes is like a robot manager that:
 - Replaces them if they crash
 - Scales them up or down when needed
 
----
 
 ## Why Use Kubernetes?
 
@@ -24,7 +22,6 @@ Kubernetes is like a robot manager that:
 - Simplifies managing containerized workloads
 - Runs containers reliably across multiple machines
 
----
 
 ## Key Concepts
 
@@ -38,7 +35,6 @@ Kubernetes is like a robot manager that:
 | **Namespace** | Organizes resources into logical groups.                                |
 | **Ingress** | Manages external access to Services (HTTP routing).                       |
 
----
 
 ## Features of Kubernetes
 
@@ -49,7 +45,6 @@ Kubernetes is like a robot manager that:
 - 🔐 **Secret & config management**
 - 🌍 **Multi-cloud & hybrid support**
 
----
 
 ## Real-World Analogy
 
@@ -59,7 +54,6 @@ Kubernetes is like a robot manager that:
 > - Sends tasks to the right robots
 > - Replaces outdated robots with new ones—without stopping the work
 
----
 
 ## Docker vs Kubernetes
 
@@ -71,7 +65,6 @@ Kubernetes is like a robot manager that:
 | Load balancing?       | ❌ No                      | ✅ Yes                    |
 | Multi-node management | ❌ No                      | ✅ Yes                    |
 
----
 
 ## Who Uses Kubernetes?
 
@@ -81,7 +74,6 @@ Kubernetes is like a robot manager that:
 - Shopify
 - Netflix
 
----
 
 ## Summary
 
@@ -91,7 +83,6 @@ Kubernetes is a **powerful container orchestration tool** that lets you:
 - Handle scaling and failures
 - Deliver modern apps faster and safer
 
----
 
 ## Next Steps
 
